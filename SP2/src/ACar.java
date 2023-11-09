@@ -32,7 +32,6 @@ public abstract class ACar implements Car {
     }
 
 
-    // Vær sikker på at det er dette man skal gøre
     @Override
     public String toString() {
         return  "\nRegistration Number: " + registrationNumber +
